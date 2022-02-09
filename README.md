@@ -1,7 +1,7 @@
 # NAIVE-BAYES
 
-Luis Angel Lopez Santos
+Luis Angel Lopez Santos.
 
-Vesna Camile Pivac Alcaraz
+Vesna Camile Pivac Alcaraz.
 
-Jose Pablo Ibarra Medrano
+Jose Pablo Ibarra Medrano.
